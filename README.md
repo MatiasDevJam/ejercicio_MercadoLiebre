@@ -2,4 +2,4 @@
 
 ## Responsive Web (Html / Css / Flexbox / Bootstrap 4 / Express)
 
-<img src="public/images.thumb.png">
+<img src="public/images/thumb.png">
